@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  DemoApplication
 //
-//  Created by kanakaraju on 21/05/19.
 //  Copyright © 2019 Administrator. All rights reserved.
 //
 
